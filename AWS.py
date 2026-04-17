@@ -3,4 +3,4 @@ b = 12
 
 # Adding two numbers
 res = a + b
-print(res thank you!)
+print(res fuck you!)
